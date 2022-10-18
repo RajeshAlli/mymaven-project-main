@@ -7,11 +7,6 @@
   <groupId>rajesh</groupId>
   <artifactId>mymaven-project-rajesh</artifactId>
   <version>1.0-SNAPSHOT</version>
-
-  <groupId>rajesh</groupId>
-  <artifactId>TomcatMavenApp</artifactId>
-  <version>2.0</version>
-  <packaging>war</packaging>
   
   <name>mymaven-project</name>
   <!-- FIXME change it to the project's website -->
